@@ -1,0 +1,16 @@
+{
+  "name": "Topic List Previews Thumbnail Generator Component",
+  "about_url": "",
+  "component": true,
+  "modifiers": {
+    "serialize_topic_excerpts": true,
+    "topic_thumbnail_sizes": [
+      [50, 50],
+      [100, 100],
+      [200, 200],
+      [400, 400],
+      [800, 800]
+    ]
+  },
+  "minimum_discourse_version": "2.5.0.beta4"
+}
